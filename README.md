@@ -5,7 +5,7 @@
 
 ### 🏆 About Me  
 - 🎓 Studying **Data Science & Machine Learning** at Illinois Tech, US & Entri Elevate  
-- 💻 Experienced in **Python, Machine Learning, Deep Learning, SQL,PowerBI and Data Visualization**  
+- 💻 Experienced in **Python, Machine Learning, Deep Learning, SQL, PowerBI and Data Visualization**  
 - 📊 Projects: **Phishing Website Detection, Housing Price Prediction, Emotion Classification, MNIST Digit Recognition**  
 - 🔍 Currently exploring **NLP, Deep Learning & Big Data**  
 - 🤝 Open to **collaborations** on Data Science and AI projects  
