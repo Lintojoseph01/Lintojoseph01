@@ -9,7 +9,7 @@
 - 📊 Projects: **Phishing Website Detection, Housing Price Prediction, Emotion Classification, MNIST Digit Recognition**  
 - 🔍 Currently exploring **NLP, Deep Learning & Big Data**  
 - 🤝 Open to **collaborations** on Data Science and AI projects  
-- 📫 How to reach me: [LinkedIn](your-linkedin-url) | [Email](your-email)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/linto-joseph-ds/) | [Email](your-email)  
 
 ---
 
@@ -50,5 +50,5 @@
 ---
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linto-joseph-ds/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lintojoseph01)  
