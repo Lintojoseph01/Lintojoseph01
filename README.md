@@ -9,7 +9,7 @@
 - 📊 Projects: **Phishing Website Detection, Housing Price Prediction, Emotion Classification, MNIST Digit Recognition**  
 - 🔍 Currently exploring **NLP, Deep Learning & Big Data**  
 - 🤝 Open to **collaborations** on Data Science and AI projects  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/linto-joseph-ds/) | [Email](your-email)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/linto-joseph-ds/) | [Email](lintojoseph2000@gmail.com)  
 
 ---
 
@@ -42,9 +42,9 @@
 ---
 
 ### 🔥 Latest Projects  
-✅ [Phishing Website Detection](your-repo-link)  
+✅ [Phishing Website Detection](https://github.com/Lintojoseph01/Phishing-Website-Detection)  
 ✅ [Housing Price Prediction](your-repo-link)  
-✅ [Emotion Classification in Text](your-repo-link)  
+✅ [Emotion Classification in Text](https://github.com/Lintojoseph01/NLP-Text-Classification?tab=readme-ov-file)  
 ✅ [MNIST Digit Recognition](your-repo-link)  
 
 ---
