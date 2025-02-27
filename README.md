@@ -45,7 +45,7 @@
 ✅ [Phishing Website Detection](https://github.com/Lintojoseph01/Phishing-Website-Detection)  
 ✅ [Housing Price Prediction](your-repo-link)  
 ✅ [Emotion Classification in Text](https://github.com/Lintojoseph01/NLP-Text-Classification?tab=readme-ov-file)  
-✅ [MNIST Digit Recognition](your-repo-link)  
+✅ [MNIST Digit Recognition](https://github.com/Lintojoseph01/Handwritten-Recognition)  
 
 ---
 
