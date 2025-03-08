@@ -43,7 +43,7 @@
 
 ### 🔥 Latest Projects  
 ✅ [Phishing Website Detection](https://github.com/Lintojoseph01/Phishing-Website-Detection)  
-✅ [Housing Price Prediction](your-repo-link)  
+✅ [Housing Price Prediction](https://github.com/Lintojoseph01/Housing-Price-Prediction-)  
 ✅ [Emotion Classification in Text](https://github.com/Lintojoseph01/NLP-Text-Classification?tab=readme-ov-file)  
 ✅ [MNIST Digit Recognition](https://github.com/Lintojoseph01/Handwritten-Recognition)  
 
