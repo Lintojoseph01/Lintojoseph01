@@ -10,7 +10,7 @@
 📊 **Projects:** [Phishing Website Detection](https://github.com/Lintojoseph01/Phishing-Website-Detection) | [Housing Price Prediction](https://github.com/Lintojoseph01/Housing-Price-Prediction-) | [Emotion Classification](https://github.com/Lintojoseph01/NLP-Text-Classification)  
 🔍 Exploring **NLP, Deep Learning & Big Data**  
 🤝 Open to **collaborations on Data Science and AI projects**  
-📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/linto-joseph01/) | Email: Lintojoseph2000@mail@gmail.com  
+📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/linto-joseph01/) | Email: Lintojoseph2000@gmail.com 
 
 ---
 
