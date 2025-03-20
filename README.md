@@ -40,9 +40,3 @@
 📂 [GitHub](https://github.com/Lintojoseph01)   
 
 ---
-
-### ✅ **Next Step:**  
-1. **Update your GitHub README** with this content.  
-2. **Add your actual project links** where it says `(GitHub-Project-Link)`.  
-
-📌 **Reply "Done" after updating, and we'll move to Step 5 (Resume Optimization)! 🚀**
